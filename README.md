@@ -1,2 +1,3 @@
 # to-do-list-js
- after learning the first concepts of JS like variables, functions, loops and DOM I managed to create this simple app .
+
+After learning the fundamentals of javascript I decided to use those concepts to build a simple application that allow me to practice what I learnt.
