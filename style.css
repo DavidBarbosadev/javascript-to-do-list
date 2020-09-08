@@ -1,0 +1,97 @@
+#app{
+    margin: auto;
+    margin-top: 10%;
+    width: 600px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 5px 5px rgb(61, 59, 59);
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+html{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#8BC6EC,#9599E2);
+}
+
+button {
+        display: inline-block;
+        padding:16px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: white;
+        background-color: #02993c;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 4px 2px rgb(156, 204, 162);
+        font-size: 20px;
+      }
+      
+button:hover {background-color: #3e8e41}
+      
+button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
+
+
+
+
+
+    input {
+        width: 60%;
+        padding: 5px;
+        margin: 10px;
+        font:16px;
+        color: black;
+        font-family:Arial, Helvetica, sans-serif;
+        margin-left: 15%;
+        outline: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        
+    }
+    input:focus {
+        border-bottom: 2px solid #8BC6EC;
+
+    }
+
+
+    #app ul{
+    size:16px;
+    margin: 20px;
+    }
+
+    #app li {
+        padding-top: 20px;
+        list-style: none;
+        font-family: 'Poppins', sans-serif;
+    
+        
+
+    }
+
+    #app a{
+        background-color: rgb(255, 153, 153);
+        padding-right:10px;
+        padding-left:10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 20px;
+        color: firebrick;
+        text-decoration: none;
+        float: right;
+        margin-right: 65px;
+
+    }
