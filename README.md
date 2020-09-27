@@ -16,3 +16,5 @@ Present a clean UI so that users can browse and enjoy the application in the bes
 
 ## How the Application works
 
+![]
+
